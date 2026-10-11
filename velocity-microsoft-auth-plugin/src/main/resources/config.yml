@@ -1,0 +1,9 @@
+client-id: 'PLACEHOLDER_ID'
+target-username: 'YourUsername'
+device-code-url: 'https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode'
+token-url: 'https://login.microsoftonline.com/consumers/oauth2/v2.0/token'
+xbl-auth-url: 'https://user.auth.xboxlive.com/user/authenticate'
+xsts-auth-url: 'https://xsts.auth.xboxlive.com/xsts/authorize'
+minecraft-token-url: 'https://api.minecraftservices.com/authentication/login_with_xbox'
+minecraft-profile-url: 'https://api.minecraftservices.com/minecraft/profile'
+poll-interval-seconds: 5
