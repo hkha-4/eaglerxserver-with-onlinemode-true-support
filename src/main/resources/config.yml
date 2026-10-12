@@ -1,0 +1,15 @@
+# =========================================================================
+#                    DeviceAuthPlugin Configuration
+# =========================================================================
+
+# Set to 'false' if you want to completely disable the Microsoft login gate.
+enabled: true
+
+# The exact, case-insensitive player name that should trigger the link.
+# Change this to your personal Eaglercraft character username.
+username: "YourUsername"
+
+# Your free Application ID pulled from your Azure App Registration portal.
+# Replace the placeholder text below with your actual Client ID string.
+# Example: client-id: '1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p'
+client-id: 'PLACEHOLDER_ID'
